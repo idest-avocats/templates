@@ -1,0 +1,169 @@
+I GENERAL PROVISIONS
+
+  I.1. DEFINITIONS
+
+    AI Model
+    AI Model means the algorithmic framework and software architecture, including any network structure, parameters, hyperparameters, and any related computational or decision-making logic, designed to process input data and generate output or predictions and incorporating or relying upon Model Weights, training data, and other methods to learn patterns, make inferences, or otherwise perform its intended functions.
+    
+    *****
+    
+    AI Technology
+    AI Technology means any and all AI Models, AI technology, tools, systems, platforms, methods, works of authorship, designs, inventions, discoveries, trade secrets, know-how, processes, specifications, documentation, code (including source code and object code), algorithms, training datasets (excluding Customer Content), architectures, Model Weights and pre-trained weights, model parameters, and any other tangible or intangible assets or Intellectual Property Rights provided by Provider in connection with this Agreement
+    
+    *****
+    
+    Do No Harm Principles
+    Do No Harm Principles refer to a commitment by each Party to (i) develop, use and deploy the AI Technology, including any associated data, outputs (such as Customer Content) or derivatives, in a manner that [(a) does not knowingly cause or facilitate direct, indirect, or unintended harm to individuals, communities, the environment, or society; ][(b) respects internationally recognized ethical, humanitarian and human rights standards; and (c)] prohibits any dual-use or military application of the technology in contravention of applicable law or principles of responsible innovation (including, without limitation, the OECD AI Principles and guidelines and policies issued by the International Committee of the Red Cross); and (ii) ensure that no portion of the AI Technology or related deliverables is weaponized, repurposed, or otherwise exploited in a manner inconsistent with such OECD AI Principles.
+    
+    *****
+    
+    Client	Customer Content 
+    Customer Content means collectively the Inputs and Outputs.
+    
+    *****
+    
+    Inputs
+    Input means the data, software, documents, third-party services, and other content (including prompts) uploaded, accessed, stored, or provided by any means for the use in the Services by or on behalf of the Customer.
+    Model Weights
+    
+    *****
+    
+    Model Weights means the specific numeric parameters (including but not limited to coefficients, biases, embeddings, or other data structures) within an AI Model that are learned or refined during training or fine-tuning, and that determine or influence how such AI Model generates its outputs.
+    Outputs 
+    
+    *****
+    
+    Outputs mean the output generated and returned by the [Services/AI Technology], by or on behalf of Customer, based on the Inputs.
+    
+    *****
+    
+    Usage Data
+    Données d'Utilisation désignent les informations sur l'accès, l'utilisation ou les interactions avec le Service par ou pour le compte du Client et des utilisateurs finaux, y compris la fréquence, la durée, le volume, les caractéristiques des interactions,  les données de clics ou de parcours de navigation, ainsi que les analyses statistiques, ou autres informations basées sur les éléments susmentionnés ou dérivées de ceux-ci. Les Données d'Utilisation ne comprennent pas les Données d’Utilisation. 	Usage Data means information reflecting the access, interaction, or use of the Service by or on behalf of Customer and individual end users, including frequency, duration, volume, features, functions, visit, session, click through or click stream data, and statistical or other analysis, information, or data based on, or derivative works of, the foregoing. Usage Data does not include any Customer Content.
+    	
+	
+  I.2.	Service Description 
+
+    Scope of Services [in AI collaboration projects]
+    Scope. The Parties shall collaborate in good faith on the Project, which may include, if and to the extent so specified in the Project Description: (a) developing, customizing, providing or fine-tuning the AI Technology for use with Customer Content; (b) testing and evaluating the performance of AI Models, based or not on the AI Technology; (c) generating Outputs [ for Customer’s internal business or research purposes]; and (d) any other activities or services agreed upon in writing by the Parties in the relevant Project Description ((a) to (d) collectively, the Services).
+    
+    *****
+    
+    Consent for Enabling New AI Features
+    Provider shall not enable any AI Feature in the Services unless and until the Customer has provided prior consent. Any such functionality shall be documented in an updated description of the Services, including its purpose, data use implications, and operational parameters.
+    
+    *****
+    
+    Changes to the Services
+    Provider shall not introduce material changes to the AI Features, including functionality, model architecture, or data sources, without prior notice to Customer. Where such changes may affect regulatory obligations, data use, or output behaviour, Provider shall obtain Customer’s consent in advance.
+
+  I.3.	Transaprency / Technical Specifications / Documentation
+
+    Explainability
+    Provider shall, upon request, provide Customer with a description of the decision logic and design principles applicable to the AI Features made available under this Agreement, including any material limitations. Where applicable, Provider shall also support Customer in producing context-appropriate explanations of AI-generated outputs, including counterfactual or process-based explanations to the extent feasible.
+
+    *****
+
+  I.4 Conformance
+
+    The Parties acknowledge that the AI Solution is made available by Party A to Party B for the sole purpose of [insert intended use case(s)] and that Party B may not use the AI Solution for any other purpose without the prior written consent of Party A. 
+
+    *****
+    
+    Restriction to deploy as HRAIS
+    The Parties agree that the AI Solution is not intended to be deployed as a HRAIS.
+    
+    *****
+    
+    Conformance with OECD AI Principles
+    Provider shall implement and maintain internal policies and procedures to promote the responsible and ethical development, deployment and use of AI, including safeguards to mitigate bias, ensure fairness in automated outputs, and facilitate meaningful human oversight where outputs may significantly affect individuals, in accordance with internationally recognized principles and standards, such  as the OECD AI Principles.
+    
+    *****
+    
+    Conformance with ISO/IEC 42001 and standards
+    Provider shall ensure that its development and deployment of the AI Features conforms to recognized ethical and risk management standards and frameworks, including ISO/IEC 42001. Provider shall document relevant risk assessments and, upon request, make available to Customer evidence of such conformance, including applicable audit reports or certifications.
+    
+    *****
+    
+    
+  I.5	Human Oversight 
+
+    Human Oversight
+    Provider undertakes and warrants that: 
+    - the AI Feature has been and will continue to be designed and developed for the entire term of the Agreement with appropriate human-machine interface tools, in such a way that it can be effectively overseen by natural persons during the period in which the AI Feature is in use; 
+    - the oversight measures and tools shall meet the requirements of Art 14 of the EU AI Act [and the AI Feature Requirements Specification].
+    
+    Kill Switch
+    Customer shall be technically able, and is hereby authorized, to immediate deactivate any AI Feature if it reasonably believes that the Feature is producing non-compliant, biased, or unreliable outputs, or otherwise poses a material risk. In such cases, the Parties shall cooperate in good faith to investigate the issue and determine appropriate corrective measures.
+
+	
+II.	INTELLECTUAL PROPERTY
+
+  II. 1 Ownership of Services and AI Technology
+
+    [X.1] Ownership of Services and AI Technology. As between the Parties, Provider exclusively owns and shall retain all right, title, and interest (including all Intellectual Property Rights) in and to the Services and the AI Technology, including without limitation (a) all AI Models, including all architectures, algorithms, source code, object code, associated documentation, and any enhancements, modifications, or derivative works thereof; (b) the Model Weights, including both the original weights and any subsequent updates, fine-tuning, or modifications to such weights; (c) any training, testing, validation or other input data (excluding Customer Content) and (d) any trade secrets, know-how, or technical information related to the foregoing.
+    Nothing in this Agreement shall operate as a transfer or assignment of Intellectual Property Rights to the Customer.
+    
+    No Ownership of Customer Content
+    [X.2] No Ownership of Customer Content. Provider does not claim any ownership interest in Customer Content (including Inputs and Outputs). As between the Parties, Customer shall own and retain any right, title, and interest (including all Intellectual Property Rights if applicable) in and to the Customer Content, subject to Provider’s ownership of Services and the underlying AI Technology as provided for in Section [X.1].
+    [Provider assigns and agrees to assign any and all rights it may have in such Outputs to the Customer, and shall not assert any legal claim on them. This provision applies irrespective of the copyright status of the Outputs under applicable law.]
+    Customer acknowledges that: (i) the Input provided to the Services may be identical or similar to input provided by third parties; (ii) due to the nature of machine learning, output may not be unique across customers/end users; (iii) the Services may generate identical or similar output for Provider or a third party; and (iv) under applicable laws, Outputs may often not be protected by copyright, patent or other intellectual property rights.  
+
+  II. 2 License to Customer Content
+    2.2 Only to provide the Services
+      [X.3] License to Customer Content. Customer grants to Provider a non-exclusive worldwide, royalty-free, fully revocable license, for the Term to use the Customer Content for the sole and exclusive purpose of providing the Services, including a license to collect, store, use, generate, modify, create derivate work of, display, sublicense and transfer such Customer Content to third parties to the extent necessary for the above purpose.
+      For clarity, Provider will not use Customer Content to train[, finetune or otherwise improve any machine learning or] AI Models, nor will it allow its subcontractors to do so, unless agreed upon separately in writing (e.g. for finetuning).
+
+    2.3 AI training authorized
+      [X.3] License to Customer Content. Customer grants to Provider a non-exclusive worldwide, royalty-free, irrevocable license to use the Customer Content for the sole and exclusive purpose of providing the Services or improving its AI Technology, including a license to collect, store, use, generate, modify, create derivate work of, display, sublicense and transfer such Customer Content to third parties, as well as to train algorithms and AI Models, to the extent necessary for the above purposes.
+
+  II.3 License to Model Weight
+    [X.4] License to Model Weights. Subject to the terms and conditions of the Agreement, Provider hereby grants to Customer a perpetual, non-exclusive, worldwide, fully-paid, and royalty-free license to use, reproduce, and distribute the specific Model Weights solely to generate [Outputs for Customer’s internal business purposes]. This license does not include the right to distribute or sublicense the Model Weights themselves to any third party (except as otherwise expressly permitted in writing by Provider).
+
+  II.5 Restrictions
+
+    [X.5] Restrictions. Customer shall not, and shall not permit or assist any third party to (a) modify, adapt, reverse engineer, disassemble, decompile, or otherwise attempt to derive the underlying architecture, source code, or trade secrets of the AI Technology, except to the extent expressly permitted by mandatory law; (b) remove, alter, or obscure any proprietary notices, labels, or marks from the AI Technology; or (c) use the AI Technology, Model Weights or [Outputs] in any manner not authorized under this Agreement.
+
+  II. 6 Feedback
+
+    Feedback, comments, ideas, proposals, and suggestions for improvements (collectively Feedback from Customer (including its users) is encouraged by Provider. It is noted that Provider has not agreed to and will not treat Feedback as confidential and Provider may use Feedback without restriction, paying compensation or crediting Customer, and that any Intellectual Property Rights resulting therefrom shall vest exclusively in Provider. For clarity, Feedback shall not be deemed Inputs.
+
+  II. 7  Usage Data
+    Provider may collect Usage Data to develop, improve, support and operate its Services. Provider may not share Usage Data with a third party except (i) in accordance with Section [X/Confidentiality] or (ii) to the extent the Usage Data is aggregated and anonymized such that the Customer and its end users cannot be identified. 
+ 
+III. WARRANTIES AND LIABILITY
+	
+  III.1	Warranty 
+    AI limitations and responsibilities [for GenAI]
+    [X.1.1] Artificial intelligence and machine learning are rapidly evolving fields of technology. Provider is constantly working to make the Services more accurate, reliable, safe, and beneficial. However, given the probabilistic nature of machine learning, use of the Services may in some situations result in incorrect results, such as Output that does not accurately reflect real people, places, or facts. Customer is responsible for evaluating the accuracy and quality of Output as appropriate for its use case, including by using human review of the Output. Customer is also responsible for the lawfulness of the Customer Content, including for verifying that its use of Customer Content does  not infringe upon any third party’s rights.
+    
+    [X.1.2] For avoidance of doubt, and without limiting the generality of Section [X.1.1], the Output generated through the Services shall not be viewed as any specific advice. Hence, Provider does not bear any responsibility for the Output or any information that is derived from the Services.
+    
+    [X.2.1] Provider warrants during the Term, that (i) the Services will conform materially in accordance with the specifications provided by Provider and (ii) it will perform the Services in a professional manner, in accordance with generally accepted industry standards.
+    
+    [X.2.2]  Provider also warrants that the Services, to its knowledge, do not infringe any third-party Intellectual Property Rights. 
+    
+    [X.2.3] Except in case of gross negligence or willful misconduct by Provider, the Customer’s sole and exclusive remedies for a breach of Section [X.2.1] shall be to (i) request a remedy of the breach, and (ii) if remedial action is not taken or possible and the breach is material, exercise its termination rights under Section [XX].
+    
+    [X.2.4] Except for the warranties in this section, the Services are provided on an as-is basis and Provider disclaims all warranties express or implied (either in fact or by operation of law) or statutory, including all implied warranties of merchantability, fitness for a particular purpose, quality, accuracy, non-infringement and title. Provider does not represent or warrant that the use of the Services will be uninterrupted or error free. Provider reserves the right, in its sole discretion, at any time to make improvements, additions, modifications (including, subject to Section [X.2.1], removing features), and to correct any errors or defects in the Services, notwithstanding that such measures may temporarily impair the Customer’s access to or use of the Services.
+	
+  III.2	Indemnity
+
+    Indemnification by Provider
+
+      [X.1] Indemnisation par le Prestataire
+      
+      [X.1.1] Provider will defend Customer, against any third-party claim alleging that Customer’s use of the Services, in accordance with this Agreement, infringes any Intellectual Property Rights of such third party and will indemnify Customer against any damages, costs, and reasonable attorney’s fees actually awarded against Customer resulting from such claim. 
+      
+      [X.1.2] If the Customer’s use of the Service results (or in Provider’s opinion is likely to result) in an infringement claim, Provider may either: (i) substitute functionally similar products or services; (ii) procure for the Customer the right to continue using the Service; or if (i) and (ii) are not commercially reasonable, (iii) terminate this Agreement (in whole or in part), and refund the Customer any prepaid unused fees. 
+      
+      [X.1.3] Notwithstanding Section [X.1.1], Provider will not have an obligation to indemnify or defend the Customer to the extent the applicable claim is attributable to (a) any materials, data or technology not provided by Provider either alone or in combination with the Service, (b) Input, (c) Output that results from Input that is in violation of any terms or conditions of the Agreement or that Customer knew or reasonably should have known was likely to lead to violating Output, or (d) any modifications to the Services or other use of the Service in violation of the Agreement.
+
+    Indemnification by Customer
+
+      [X.2] Indemnification by Customer. Customer will defend Provider against any third-party claim arising from or relating to [the use of the Services in breach of the Agreement,] Input or Output that results from Input that is in violation of any term or condition of the Agreement or that Customer knew or reasonably should have known was likely to lead to violating Output and indemnify Provider against any damages, costs and reasonable attorneys’ fees actually awarded against Provider resulting from such claim.
+
+    Indemnification Procedures
+
+      [X.3.1] The indemnity obligations under Sections [X.1]  and [X.2] are conditioned upon the Party receiving the claim (the Indemnified Party) (i) promptly giving the other Party (the Indemnifying Party) written notice of the claim (ii) giving the Indemnifying Party sole control of the defense and settlement of the claim (except that the Indemnifying Party may not settle any claim unless the settlement unconditionally releases the Indemnified Party of all liability, the settlement does not affect the Indemnified Party’s Intellectual Property Rights, and the Indemnifying Party pays any settlement fees), and (iii) gives the Indemnifying Party all reasonable assistance in connection with the defense or settlement of the claim, at the Indemnifying Party’s expense.
+      
+      [X.3.2] For avoidance of doubt, for the purposes of this Section [X], a claim against the Indemnified Party shall be understood to include a claim against the Indemnified Party, its Affiliates, and its or its Affiliates’ officers, directors, and employees
